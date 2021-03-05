@@ -49,22 +49,3 @@ var characterList = [
         'Captain Monica Rambeau is the daughter of the late Maria Rambeau. During her childhood, she befriended Carol Danvers, a friend of her mother, and refused to believe the reports that Danvers had died in a mysterious plane crash. '
   },
 ];
-
-var latestNews = [
-  {
-    'imgUrl': 'assets/images/news1.png',
-    'tag': 'Movies',
-    'title': 'The top 10 first meetings in the marvel cinematic universe',
-  },
-  {
-    'imgUrl': 'assets/images/news2.png',
-    'tag': 'Comics',
-    'title':
-        'Suit up and get ready to be taken on a thrilling journey through the movie',
-  },
-  {
-    'imgUrl': 'assets/images/news3.png',
-    'tag': 'Comics',
-    'title': 'Avenger: againts all odds',
-  },
-];

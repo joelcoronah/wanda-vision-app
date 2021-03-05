@@ -19,36 +19,13 @@ class HomePage extends StatelessWidget {
                     fit: BoxFit.fill,
                   ),
                 ),
-                Positioned(
-                  child: Container(
-                    width: MediaQuery.of(context).size.width,
-                    padding: EdgeInsets.all(25),
-                    child: Row(
-                      children: <Widget>[
-                        IconButton(
-                          icon: Icon(
-                            Icons.menu,
-                            size: 30,
-                            color: Colors.white60,
-                          ),
-                          onPressed: () {},
-                        ),
-                        // Image.asset('assets/images/WVLOGO.png'),
-                      ],
-                    ),
-                  ),
-                ),
                 Center(
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.end,
                     children: <Widget>[
-                      Text(
-                        'WandaVision',
-                        style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 40,
-                          fontWeight: FontWeight.bold,
-                        ),
+                      Image.asset(
+                        'assets/images/logo.png',
+                        fit: BoxFit.fill,
                       ),
                     ],
                   ),
