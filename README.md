@@ -5,7 +5,7 @@ A WandaVision character description.
 # Captures
 ![Home page](https://github.com/joelcoronah/wanda-vision-app/blob/main/assets/images/captures/1.png "Home page")
 
-![Character profile](https://github.com/joelcoronah/wanda-vision-app/blob/main/assets/images/captures/1.png "Character Profile")
+![Character profile](https://github.com/joelcoronah/wanda-vision-app/blob/main/assets/images/captures/2.png "Character Profile")
 
 ## How to Use
 
